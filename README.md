@@ -27,4 +27,4 @@ Snap (SNAP)
 Datadog (DDOG)
 
 ### AWS Kinesis configuration page
-
+![kinesis_config](https://user-images.githubusercontent.com/56409800/102427503-806fce80-3fdf-11eb-94df-0a64a964db0b.png)
