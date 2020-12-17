@@ -25,3 +25,6 @@ The Trade Desk (TTD)
 Okta (OKTA)
 Snap (SNAP)
 Datadog (DDOG)
+
+### AWS Kinesis configuration page
+
